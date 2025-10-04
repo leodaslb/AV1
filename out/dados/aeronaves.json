@@ -1,0 +1,41 @@
+[
+  {
+    "codigo": "1",
+    "modelo": "747",
+    "tipo": "COMERCIAL",
+    "capacidade": 2000,
+    "alcance": 5,
+    "pecas": [],
+    "etapas": [],
+    "testes": []
+  },
+  {
+    "codigo": "234",
+    "modelo": "772",
+    "tipo": "COMERCIAL",
+    "capacidade": 1000,
+    "alcance": 3,
+    "pecas": [
+      {
+        "nome": "Asa",
+        "tipo": "IMPORTADA",
+        "fornecedor": "",
+        "status": "PRONTA"
+      }
+    ],
+    "etapas": [
+      {
+        "nome": "Montagem da asa",
+        "prazo": "20 dias",
+        "status": "CONCLUIDA",
+        "funcionarios": []
+      }
+    ],
+    "testes": [
+      {
+        "tipo": "HIDRAULICO",
+        "resultado": "APROVADO"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "nome": "Admin",
+    "telefone": "999999999",
+    "endereco": "Rua X",
+    "usuario": "admin",
+    "senha": "1234",
+    "nivelPermissao": "ADMINISTRADOR"
+  },
+
+  {
+    "id": "10",
+    "nome": "Leonardo",
+    "telefone": "11111111111",
+    "endereco": "rua cento e vinte e sete",
+    "usuario": "leonardo",
+    "senha": "12345",
+    "nivelPermissao": "ENGENHEIRO"
+  },
+  {
+    "id": "11",
+    "nome": "Diego",
+    "telefone": "222222222",
+    "endereco": "rua vinte e dois",
+    "usuario": "diego",
+    "senha": "123456",
+    "nivelPermissao": "OPERADOR"
+  }
+]
