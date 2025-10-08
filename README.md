@@ -48,6 +48,7 @@ O sistema já possui funcionários cadastrados.
 Por padrão, o usuário Administrador é:
 
 Usuário: admin
+
 Senha: 1234
 
 
