@@ -18,6 +18,7 @@ readline-sync — biblioteca utilizada para entrada de dados no terminal
 Clone o repositório:
 
 git clone https://github.com/leodaslb/AV1
+
 cd AV1
 
 
