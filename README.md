@@ -32,15 +32,19 @@ Caso ainda não tenha o TypeScript instalado globalmente:
 npm install typescript @types/node @types/readline-sync --save-dev
 
  Como Executar o Projeto
+ 
 🔹 Compilar os arquivos TypeScript
+
 npm run build
 
 🔹 Iniciar o sistema
+
 npm start
 
 Credenciais Padrão
 
 O sistema já possui funcionários cadastrados.
+
 Por padrão, o usuário Administrador é:
 
 Usuário: admin
